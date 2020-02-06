@@ -39,7 +39,7 @@ paginate = 4
   URL = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
-# [menu]
+[menu]
     
   # [[menu.main]]
   # name = "About"
@@ -66,10 +66,10 @@ paginate = 4
   #   # name = "Blog"
   #   # URL = "blog"
 
-  #   [[menu.main]]
-  #   parent = "Pages"
-  #   name = "Расписание"
-  #   URL = "schedule"
+    [[menu.main]]
+    # parent = "Pages"
+    name = "Расписание"
+    URL = "schedule"
 
   #   [[menu.main]]
   #   parent = "Pages"
@@ -84,7 +84,7 @@ paginate = 4
 #################### default parameters ################################
 [params]
 logo = "images/Logo_AI_Cluster_Kommersant.png"
-home = ""
+home = "Главная"
 # Meta data
 description = "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
 author = "Themefisher"
