@@ -5,94 +5,130 @@ schedule:
   content : "**Встречи и общение с бизнесом, представителями правительства, науки и IT-компаний. Интересные доклады.**"
   scheduleTab:
     ################################# tab itam loop
-    - title : "Day 1"
-      subtitle : "13 Nov ,2019 [09.00am - 04.00pm]"
+    - title : "День 1"
+      subtitle : "20 Февраля,2020 [10.00 - 18.00]"
       tabContentList:
         # tab content list
-        - time : "9.00am"
+        - time : "10:00 – 11:45"
           image : "images/about/wordpress.png"
           content : "
           
-          ### Introduction of material Design
+          ### Круглый стол
 
-          ###### By Risabh moinul
+          ###### Цифровая трансформация в России и в мире. Трансфер российских технологий. (Россия и международное сотрудничество в области высоких технологий на базе AI)
 
-          CEo of themefisher
+          Участие по приглашению организаторов
           "
           
         # tab content list
-        - time : "9.00am"
-          image : "images/about/big-data.png"
+        - time : "11:30 – 12:00"
+          image : "images/about/signup.png"
           content : "
           
-          ### Marketing Matters in design area
+          ### Регистрация
 
-          ###### By Risabh moinul
-
-          CEo of themefisher
+          Открытое участие
           "
+         
+         # tab content list
+        - time : "12:00 – 13:15"
+          image : "images/about/wordpress.png"
+          content : "
           
+          ### Панельная дискуссия
+
+          ###### «Цифровая трансформация. Формулы успеха»
+
+          К участию приглашены: АНО «Цифровая экономика», Сбербанк, РВК, НТИ, НГУ, Новосибирский Академпарк, Администрация НСО.
+          "
+
         # tab content list
-        - time : "9.00am"
+        - time : "13:15 – 14:00"
           image : "images/about/lunch.jpg"
           content : "
           
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          CEo of themefisher
+          ### Кофе-брейк
           "
           
         # tab content list
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          CEo of themefisher
-          "
-          
-    ################################# tab itam loop
-    - title : "Day 2"
-      subtitle : "14 Nov ,2019 [09.00am - 04.00pm]"
-      tabContentList:
-        # tab content list
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          CEo of themefisher
-          "
-
-        # tab content list
-        - time : "9.00am"
+        - time : "14:00 – 15:40"
           image : "images/about/wordpress.png"
           content : "
           
-          ### Launch Break
+          ### Трансфер высоких технологий на базе ИИ: теория и практика
+          "
 
-          ###### By Risabh moinul
+        # tab content list
+        - time : "15:40 – 16:00"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Кофе-брейк
+          "
 
-          CEo of themefisher
+        # tab content list
+        - time : "16:00 – 18:00"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Брейн-ринг
+
+          ###### Опыт внедрений решений на основе ИИ в бизнес и власть.
+
+          -	Плюсы и ловушки цифровизации.
+
+-	Искусственный интеллект – как инструмент автоматизации принятия решений.
+
+-	Автоматизация клиентских коммуникаций – эффективность внедрений и возможности для бизнеса и власти.
+
+-	Торговый ассистент- повышение эффективности продаж.
+
+-	Кибербезопасность– популярный тренд или необходимость.
+
+-	Как я поверил в цифровизацию, и что из этого вышло?
+
+-	Блокчейн технологии – доверие, улучшающее продажи.
+
+-	Автоматизация контрактной деятельности – реальное применение смарт-контрактов.
           "
           
+    ################################# tab itam loop
+    - title : "День 2"
+      subtitle : "21 февраля, 2020 [10.00 - 17.00]"
+      tabContentList:
         # tab content list
-        - time : "9.00am"
+        - time : "10.00 - 17.00"
           image : "images/about/big-data.png"
           content : "
           
-          ### Marketing Matters in design area
+          ### Стратегическая сессия
 
-          ###### By Risabh moinul
+          ###### по проектированию Дорожной карты «Повышения индекса готовности отраслей и городов к внедрению ИИ»
 
-          CEo of themefisher
+          Участие по приглашению организаторов
           "
+
+        # # tab content list
+        # - time : "9.00am"
+        #   image : "images/about/wordpress.png"
+        #   content : "
+          
+        #   ### Launch Break
+
+        #   ###### By Risabh moinul
+
+        #   CEo of themefisher
+        #   "
+          
+        # # tab content list
+        # - time : "9.00am"
+        #   image : "images/about/big-data.png"
+        #   content : "
+          
+        #   ### Marketing Matters in design area
+
+        #   ###### By Risabh moinul
+
+        #   CEo of themefisher
+        #   "
           

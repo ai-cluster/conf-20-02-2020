@@ -83,7 +83,7 @@ paginate = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/ai-logo.png"
+logo = "images/Logo_AI_Cluster_Kommersant.png"
 home = ""
 # Meta data
 description = "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
@@ -108,27 +108,27 @@ googleAnalitycsID = "Your ID"
 
   ############################## footer ################################
   [params.footer]
-  title = "Vixcon."
-  content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
-  copyright = "Copyright Reserved to Themefisher.2019"
+  title = "AI-CLUSTER и АО «Коммерсантъ-Сибирь»"
+  content = "совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, Союз «Нейронет-Новосибирск» при поддержке Администрации Новосибирской области"
+  copyright = "Copyright Reserved to AI-cluster. 2020"
 
   ############################# social icon ############################
-  [[params.social]]
-  icon = "tf-ion-social-facebook"
-  link = "#"
+  # [[params.social]]
+  # icon = "tf-ion-social-facebook"
+  # link = "#"
   
-  [[params.social]]
-  icon = "tf-ion-social-twitter"
-  link = "#"
+  # [[params.social]]
+  # icon = "tf-ion-social-twitter"
+  # link = "#"
   
-  [[params.social]]
-  icon = "tf-ion-social-linkedin"
-  link = "#"
+  # [[params.social]]
+  # icon = "tf-ion-social-linkedin"
+  # link = "#"
   
-  [[params.social]]
-  icon = "tf-ion-social-pinterest"
-  link = "#"
+  # [[params.social]]
+  # icon = "tf-ion-social-pinterest"
+  # link = "#"
   
-  [[params.social]]
-  icon = "tf-ion-social-rss"
-  link = "#"
+  # [[params.social]]
+  # icon = "tf-ion-social-rss"
+  # link = "#"
