@@ -93,11 +93,11 @@ speaker:
 ######################### sponsor ############################
 sponsor:
   enable :  true
-  titleOutline : "Sponsors"
-  title : "Партнеры & Спонсоры"
+  titleOutline : "Partners"
+  title : "Организаторы Партнеры"
   sponsorGroup:
     ############################ sponsor group loop
-    - title : "Главные спонсоры"
+    - title : "Организаторы"
       sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-11.png"
