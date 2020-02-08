@@ -107,9 +107,9 @@ sponsor:
         - logo : "images/clients/client-img-12.png"
           link : "#"
           
-        # # sponcor loop
-        # - logo : "images/clients/client-img-3.png"
-        #   link : "#"
+        # sponcor loop
+        - logo : "images/clients/client-img-25.png"
+          link : "#"
           
         # # sponcor loop
         # - logo : "images/clients/client-img-4.png"
@@ -122,6 +122,10 @@ sponsor:
     ############################ sponsor group loop
     - title : "Партнеры"
       sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-23.png"
+          link : "#"
+
         # sponcor loop
         - logo : "images/clients/client-img-13.png"
           link : "#"
@@ -161,6 +165,14 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-22.png"
           link : "#"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-24.png"
+          link : "#"
+
+        # # sponcor loop
+        # - logo : "images/clients/client-img-25.png"
+        #   link : "#"
   
   # call to action in sponsor
   cta:

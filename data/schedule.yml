@@ -10,7 +10,7 @@ schedule:
       tabContentList:
         # tab content list
         - time : "10:00 – 11:45"
-          image : "images/about/wordpress.png"
+          image : "images/about/cifr.png"
           content : "
           
           ### Круглый стол
@@ -32,7 +32,7 @@ schedule:
          
          # tab content list
         - time : "12:00 – 13:15"
-          image : "images/about/wordpress.png"
+          image : "images/about/cifr.png"
           content : "
           
           ### Панельная дискуссия
@@ -44,7 +44,7 @@ schedule:
 
         # tab content list
         - time : "13:15 – 14:00"
-          image : "images/about/lunch.jpg"
+          image : "images/about/cofe.png"
           content : "
           
           ### Кофе-брейк
@@ -52,7 +52,7 @@ schedule:
           
         # tab content list
         - time : "14:00 – 15:40"
-          image : "images/about/wordpress.png"
+          image : "images/about/cifr.png"
           content : "
           
           ### Трансфер высоких технологий на базе ИИ: теория и практика
@@ -60,7 +60,7 @@ schedule:
 
         # tab content list
         - time : "15:40 – 16:00"
-          image : "images/about/lunch.jpg"
+          image : "images/about/cofe.png"
           content : "
           
           ### Кофе-брейк
@@ -68,7 +68,7 @@ schedule:
 
         # tab content list
         - time : "16:00 – 18:00"
-          image : "images/about/wordpress.png"
+          image : "images/about/cifr.png"
           content : "
           
           ### Брейн-ринг
@@ -98,7 +98,7 @@ schedule:
       tabContentList:
         # tab content list
         - time : "10.00 - 17.00"
-          image : "images/about/big-data.png"
+          image : "images/about/ai.png"
           content : "
           
           ### Стратегическая сессия
