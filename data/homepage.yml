@@ -26,7 +26,7 @@ event:
   image : "images/about/main-home-img-1.jpg"
   content : "- **AI-CLUSTER и АО «Коммерсантъ-Сибирь»**
 
-- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, Союз «Нейронет- Новосибирск»**
+- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, Союз «Нейронет- Новосибирск»**
 
 - **при поддержке Администрации Новосибирской области**"
   button:
@@ -131,7 +131,7 @@ sponsor:
           link : "#"
           
         # sponcor loop
-        - logo : "images/clients/client-img-19.png"
+        - logo : "images/clients/client-img-14.png"
           link : "#"
           
         # sponcor loop
@@ -151,11 +151,11 @@ sponsor:
           link : "#"
           
         # sponcor loop
-        - logo : "images/clients/client-img-14.png"
+        - logo : "images/clients/client-img-28.png"
           link : "#"
           
         # sponcor loop
-        - logo : "images/clients/client-img-15.png"
+        - logo : "images/clients/client-img-22.png"
           link : "#"
           
         # sponcor loop
@@ -163,16 +163,28 @@ sponsor:
           link : "#"
 
         # sponcor loop
-        - logo : "images/clients/client-img-22.png"
+        - logo : "images/clients/client-img-15.png"
+          link : "#"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-27.png"
           link : "#"
 
         # sponcor loop
         - logo : "images/clients/client-img-24.png"
           link : "#"
 
-        # # sponcor loop
-        # - logo : "images/clients/client-img-25.png"
-        #   link : "#"
+        # sponcor loop
+        - logo : "images/clients/client-img-19.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-29.png"
+          link : "#"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-30.png"
+          link : "#"
   
   # call to action in sponsor
   cta:
