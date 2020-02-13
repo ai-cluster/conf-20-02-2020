@@ -143,8 +143,8 @@ sponsor:
           link : "https://academpark.com/"
 
         # sponcor loop
-        - logo : "images/clients/client-img-17.png"
-          link : "https://www.sberbank.ru/ru/person"
+        - logo : "images/clients/client-img-30.png"
+          link : "http://rit-it.com/ru/"
           
         # sponcor loop
         - logo : "images/clients/client-img-18.png"
@@ -182,9 +182,9 @@ sponsor:
         - logo : "images/clients/client-img-29.png"
           link : "https://bacup.ru/"
 
-        # sponcor loop
-        - logo : "images/clients/client-img-30.png"
-          link : "http://rit-it.com/ru/"
+        # # sponcor loop
+        # - logo : "images/clients/client-img-30.png"
+        #   link : "http://rit-it.com/ru/"
 
         # sponcor loop
         - logo : "images/clients/client-img-32.png"
@@ -204,7 +204,7 @@ cta2:
   image : "images/bg/cta-bg.jpg"
   title : "Время и место проведения"
   date : "20-21 Февраля, 2020"
-  content : "Николаева 12, Академпарк, Новосибирск, Россия
+  content : "Николаева 12 (Большой зал), Академпарк, Новосибирск, Россия
   
   ##### Участие бесплатно, регистрация обязательна, количество мест ограничено."
   button: 
