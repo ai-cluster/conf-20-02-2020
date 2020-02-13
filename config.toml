@@ -41,10 +41,10 @@ paginate = 4
 ############################## navigation ###############################
 [menu]
     
-  # [[menu.main]]
-  # name = "About"
-  # URL = "about"
-  # weight = 2
+  [[menu.main]]
+  name = "О конференции"
+  URL = "about"
+  weight = 2
   
   # [[menu.main]]
   # name = "Спикеры"
