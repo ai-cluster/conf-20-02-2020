@@ -101,15 +101,15 @@ sponsor:
       sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-11.png"
-          link : "#"
+          link : "https://www.kommersant.ru/regions/54"
           
         # sponcor loop
         - logo : "images/clients/client-img-12.png"
-          link : "#"
+          link : "https://ai-cluster.ru/"
           
         # sponcor loop
         - logo : "images/clients/client-img-25.png"
-          link : "#"
+          link : "https://ivoice.tech/"
           
         # # sponcor loop
         # - logo : "images/clients/client-img-4.png"
@@ -124,11 +124,11 @@ sponsor:
       sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-26.png"
-          link : "#"
+          link : "http://www.math.nsc.ru/"
 
         # sponcor loop
         - logo : "images/clients/client-img-13.png"
-          link : "#"
+          link : "https://www.nsu.ru/n/"
           
         # sponcor loop
         - logo : "images/clients/client-img-14.png"
@@ -140,50 +140,54 @@ sponsor:
           
         # sponcor loop
         - logo : "images/clients/client-img-16.png"
-          link : "#"
+          link : "https://academpark.com/"
 
         # sponcor loop
         - logo : "images/clients/client-img-17.png"
-          link : "#"
+          link : "https://www.sberbank.ru/ru/person"
           
         # sponcor loop
         - logo : "images/clients/client-img-18.png"
-          link : "#"
+          link : "http://rusneuro.net/"
           
         # sponcor loop
         - logo : "images/clients/client-img-28.png"
-          link : "#"
+          link : "https://expasoft.com/ru/"
           
         # sponcor loop
         - logo : "images/clients/client-img-22.png"
-          link : "#"
+          link : "http://nips.ru/"
           
         # sponcor loop
-        - logo : "images/clients/client-img-21.png"
-          link : "#"
+        - logo : "images/clients/client-img-34.png"
+          link : "https://eyeline.mobi/"
 
         # sponcor loop
-        - logo : "images/clients/client-img-15.png"
-          link : "#"
+        - logo : "images/clients/client-img-33.png"
+          link : "https://air-nso.ru/ru/"
 
         # sponcor loop
         - logo : "images/clients/client-img-27.png"
-          link : "#"
+          link : "http://healthnet.academpark.com/"
 
         # sponcor loop
         - logo : "images/clients/client-img-24.png"
-          link : "#"
+          link : "https://kamaflow.com/ru/"
 
         # sponcor loop
-        - logo : "images/clients/client-img-19.png"
-          link : "#"
+        - logo : "images/clients/client-img-31.png"
+          link : "https://sib-nsk.net/"
           
         # sponcor loop
         - logo : "images/clients/client-img-29.png"
-          link : "#"
+          link : "https://bacup.ru/"
 
         # sponcor loop
         - logo : "images/clients/client-img-30.png"
+          link : "http://rit-it.com/ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-32.png"
           link : "#"
   
   # call to action in sponsor
