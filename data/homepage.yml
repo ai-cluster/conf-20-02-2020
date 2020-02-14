@@ -182,13 +182,13 @@ sponsor:
         - logo : "images/clients/client-img-29.png"
           link : "https://bacup.ru/"
 
-        # # sponcor loop
-        # - logo : "images/clients/client-img-30.png"
-        #   link : "http://rit-it.com/ru/"
+        # sponcor loop
+        - logo : "images/clients/client-img-35.png"
+          link : "https://www.vot-takie-pirogi.ru/"
 
         # sponcor loop
         - logo : "images/clients/client-img-32.png"
-          link : "#"
+          link : "http://aigents.com/"
   
   # call to action in sponsor
   cta:
