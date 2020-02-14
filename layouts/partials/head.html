@@ -1,9 +1,9 @@
 <head>
   <meta charset="utf-8">
+  <meta property="og:image" content="https://ai-cluster.ru/conf/conf-bg.png" />
   <title>{{ .Site.Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
-  <meta property="og:image" content="/conf-bg.jpg" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
