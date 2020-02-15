@@ -26,7 +26,7 @@ event:
   image : "images/about/main-home-img-1.jpg"
   content : "- **AI-CLUSTER и АО «Коммерсантъ-Сибирь»**
 
-- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, Союз «Нейронет- Новосибирск»**
+- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, KamaFlow, HEALTHNET, Союз «Нейронет- Новосибирск»**
 
 - **при поддержке Администрации Новосибирской области**"
   button:
@@ -49,16 +49,16 @@ cta:
 feature:
   enable: true
   featureItem: 
-    # feature item loop
-    - title : "Институты технологического развития"
-      icon : "tf-ion-android-microphone"
-      content : "**Принимают участие:**
+#     # feature item loop
+#     - title : "Институты технологического развития"
+#       icon : "tf-ion-android-microphone"
+#       content : "**Принимают участие:**
       
-- АНО Цифровая экономика
+# - АНО Цифровая экономика
       
-- РВК
+# - РВК
       
-- НТИ"
+# - НТИ"
       
     # feature item loop
     - title : "Международная аудитория"
