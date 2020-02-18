@@ -86,7 +86,7 @@ pricing:
 speaker:
   enable : true
   titleOutline : "Speakers"
-  title : "Кто выступает"
+  title : "Спикеры и гости"
   # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   # speaker content comes from "content/speaker" folder
 
