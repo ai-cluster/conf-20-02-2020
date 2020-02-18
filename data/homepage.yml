@@ -84,10 +84,10 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : false
+  enable : true
   titleOutline : "Speakers"
-  title : "Who're speaking"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  title : "Кто выступает"
+  # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
@@ -189,6 +189,10 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-32.png"
           link : "http://aigents.com/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-36.png"
+          link : "https://astralinux.ru/"          
   
   # call to action in sponsor
   cta:
