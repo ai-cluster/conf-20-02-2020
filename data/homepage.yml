@@ -9,8 +9,8 @@ banner:
 
 ########################## Counter #################################
 counter:
-  enable : true
-  title : "**До начала конференции**"
+  enable : false
+  title : "**Конференция завершена**"
   # set timer
   year: "2020"
   month: "02"
